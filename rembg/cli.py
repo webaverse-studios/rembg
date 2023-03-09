@@ -248,7 +248,7 @@ def p(
 @click.option(
     "-p",
     "--port",
-    default=5000,
+    default=8080,
     type=int,
     show_default=True,
     help="port",
